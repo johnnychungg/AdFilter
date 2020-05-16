@@ -17,3 +17,9 @@
 ||www.letouvn.com^
 ||fabetvn.com^
 ||media.jxf88.com^
+@@||sdk-os.mpsdk.easebar.com^$important
+||www.googleadservices.com^$important
+@@||tracking.trnox.com^$important
+||bblogs.fpt.vn^$important
+||logsv2.fbox.fpt.vn^$important
+||fboximages.fptplay.net.vn^$important
