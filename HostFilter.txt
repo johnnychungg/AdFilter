@@ -1,3 +1,6 @@
+||googleadservices.com^$important
+@@||go.oracle.com^$important
+@@||login.oracle.com^$important
 ||youtube.com/generate_204
 ||v9banners.com^
 ||media.jxf88.com^
