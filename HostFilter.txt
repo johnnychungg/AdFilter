@@ -27,6 +27,7 @@
 ||bblogs.fpt.vn^$important
 ||logsv2.fbox.fpt.vn^$important
 ||fboximages.fptplay.net.vn^$important
+||www.msftconnecttest.com^$important
 
 ///////// Debloating Nox /////////
 127.0.0.1 8.bignox.com
